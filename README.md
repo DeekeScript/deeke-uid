@@ -1,39 +1,20 @@
-# deeke-grab-chromium
+# 抖音评论区UID采集工具
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-#### 软件架构
-软件架构说明
+抖音评论区UID采集工具，根据视频关键词采集，采集后的uid，可以通过Deeke软件批量私信；支持Mac和Windows系统。
 
+#### 截图
+<img src="images/login.png" width="50%">
 
-#### 安装教程
+<img src="images/mac.png" width="100%">
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<img src="images/windows.png" width="100%">
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 下载安装包
+2. 激活码激活
+3. 主界面点击“登录抖音”，软件会自动打开Chrome浏览器（没有安装可以先安装）
+4. 扫码登录抖音账号，短信验证（或者扫脸验证）
+5. 填写视频关键词，点击“搜索”
