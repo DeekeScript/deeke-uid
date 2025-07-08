@@ -1,8 +1,8 @@
-# 抖音评论区UID采集工具
+# 抖音UID采集工具
 
 #### 介绍
 
-抖音评论区UID采集工具，根据视频关键词采集，采集后的uid，可以通过Deeke软件批量私信；支持Mac和Windows系统。
+抖音uid采集、抖音评论区UID、抖音用户uid采集工具，根据视频关键词采集，采集后的用户uid，可以通过Deeke软件批量私信；支持Mac和Windows系统。
 
 #### 截图
 <img src="images/login.png" width="50%">
