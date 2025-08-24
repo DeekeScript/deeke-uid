@@ -7,10 +7,12 @@
 #### Android端截图（全网为数不多，自主研发，可贴牌）
 > Android端可以采集简介手机号、批量私信、批量加微信
 
-<img src="images/app/login.jpg" width="24%">
-<img src="images/app/task.jpg" width="24%">
-<img src="images/app/task-add.jpg" width="24%">
-<img src="images/app/task-detail.jpg" width="24%">
+<div style="display: flex;justify-content: space-between;">
+    <img src="images/app/login.jpg" width="24%">
+    <img src="images/app/task.jpg" width="24%">
+    <img src="images/app/task-add.jpg" width="24%">
+    <img src="images/app/task-detail.jpg" width="24%">
+</div>
 
 #### 电脑端截图
 <img src="images/login.png" width="50%">
