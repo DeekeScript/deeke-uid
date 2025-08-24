@@ -4,7 +4,7 @@
 
 抖音/小红书评论区采集客户端和App（Api采集）、抖音评论区UID、抖音用户uid采集工具，根据视频关键词采集，采集后的用户uid，可以批量私信、加微信；支持Android、Mac和Windows系统。
 
-#### Android端截图
+#### Android端截图（全网为数不多，自主研发，可贴牌）
 > Android端可以采集简介手机号、批量私信、批量加微信
 
 <img src="images/app/login.jpg" width="24%">
