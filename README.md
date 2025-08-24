@@ -1,10 +1,18 @@
-# 抖音/小红书UID采集工具
+# 抖音评论区uid、手机号采集/小红书评论区采集工具
 
 #### 介绍
 
-抖音/小红书评论区uid采集客户端、抖音评论区UID、抖音用户uid采集工具，根据视频关键词采集，采集后的用户uid，可以通过Deeke软件批量私信；支持Mac和Windows系统。
+抖音/小红书评论区采集客户端和App（Api采集）、抖音评论区UID、抖音用户uid采集工具，根据视频关键词采集，采集后的用户uid，可以批量私信、加微信；支持Android、Mac和Windows系统。
 
-#### 截图
+#### Android端截图
+> Android端可以采集简介手机号、批量私信、批量加微信
+
+<img src="images/app/login.jpg" width="24%">
+<img src="images/app/task.jpg" width="24%">
+<img src="images/app/task-add.jpg" width="24%">
+<img src="images/app/task-detail.jpg" width="24%">
+
+#### 电脑端截图
 <img src="images/login.png" width="50%">
 
 <img src="images/mac.png" width="100%">
